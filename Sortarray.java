@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class SortableArray {
     public static void main(String[] args) {
-        // Sort an array of integers
+        
         int[] intArray = {4, 2, 7, 1, 9, 5};
         System.out.println("Original Integer Array:");
         printIntArray(intArray);
@@ -10,7 +10,7 @@ public class SortableArray {
         System.out.println("\nSorted Integer Array:");
         printIntArray(intArray);
 
-        // Sort an array of strings
+        
         String[] strArray = {"banana", "apple", "orange", "grape"};
         System.out.println("\nOriginal String Array:");
         printStrArray(strArray);
