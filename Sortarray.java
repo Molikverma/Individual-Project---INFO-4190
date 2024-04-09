@@ -10,7 +10,7 @@ public class SortableArray {
         System.out.println("\nSorted Integer Array:");
         printIntArray(intArray);
 
-        
+        // Sort the strings in alphabetical order
         String[] strArray = {"banana", "apple", "orange", "grape"};
         System.out.println("\nOriginal String Array:");
         printStrArray(strArray);
